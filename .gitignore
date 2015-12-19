@@ -1,0 +1,5 @@
+.DS_Store
+*_flymake*
+*.log
+*.db
+*.m3u
